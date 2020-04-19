@@ -13,3 +13,4 @@ A Python 3 script to extract the contents of the `marble.bza` archive from Marbl
 ## Notes
 
 * `*.jng` files can be converted to PNG with the `convert` command line tool that ships with ImageMagick, e.g. `convert grow.jng grow2.png`.
+* Yes, the filenames are often have characters and/or path components missing. That's just how they're listed in the `marble.bza` manifest 🤷‍♂️
